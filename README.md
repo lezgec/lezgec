@@ -3,7 +3,7 @@
 ### 👨‍💻 Full Stack Web Developer 
 I'm a Software Engineering student from Guayaquil, Ecuador, passionate about building robust and scalable web applications. I enjoy architecting databases and backend logic while crafting responsive, user-centric interfaces.
 
-- 🎓 Software Engineering Student at University of Guayaquil (Expected 2026).
+- 🎓 Software Engineer - University of Guayaquil.
 - 💼 Deeply focused on **.NET Core, Entity Framework, Angular, React, and PHP**.
 - 🚀 Always open to discussing web development, architecture, and innovative startup ideas.
 
